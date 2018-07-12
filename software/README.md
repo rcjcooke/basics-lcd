@@ -1,0 +1,1 @@
+Note: At the time of writing, uploading to my particular Arduino Nano using Platform IO doesn't work and I had to upload using the Arduino IDE instead. I suspect it's purely a case of waiting for an updated framework / platform to be release through Platform IO so I'm not going to bother to get to the bottom of it. 
