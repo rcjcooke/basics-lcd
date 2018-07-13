@@ -1,0 +1,3 @@
+# Basics Series: LCD
+
+Note: The software and photos of tested wiring only have bits 4,5,6 and 7 of the LCD databus connected to the Arduino. This is sufficient to cover the usually used ascii character set on the LCD. If the extended character set is required then the remainder of the bus should be connected and used. The Eagle schematic however shows the whole bus connected to the Arduino. This is to enable simple future re-use.
